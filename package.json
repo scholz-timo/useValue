@@ -1,0 +1,22 @@
+{
+  "name": "usevalue",
+  "version": "1.0.0",
+  "description": "use value is a react form project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scholz-timo/useValue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scholz-timo/useValue/issues"
+  },
+  "homepage": "https://github.com/scholz-timo/useValue#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-use-async-callback": "^2.1.1"
+  }
+}
